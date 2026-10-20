@@ -5,6 +5,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-DAX_%26_UI%2FUX-F2C811?logo=powerbi&logoColor=black)
 
+[Haz clic aquí para interactuar con el Dashboard en vivo](https://app.powerbi.com/groups/me/reports/97b40e9f-beef-4dea-beab-36845f6f5f59?ctid=717b9a79-1b91-41ab-a6f7-a579b46a9b41&pbi_source=linkShare)
+
 ## 1. Contexto y Problema de Negocio
 El mercado de alquileres vacacionales a corto plazo en **Barcelona (Cataluña, España)** es uno de los más competitivos y regulados de Europa. Un grupo de inversión inmobiliaria necesita identificar en qué distritos y barrios adquirir nuevas propiedades, qué tipología ofrece el mayor retorno de inversión (ROI) y cómo fijar tarifas competitivas sin sacrificar la ocupación.
 
