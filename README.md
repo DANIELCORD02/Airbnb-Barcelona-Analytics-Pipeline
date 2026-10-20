@@ -66,19 +66,19 @@ LIMIT 10;
 ## 5. Estructura del Dashboard en Power BI (7 Módulos)
 El reporte fue diseñado bajo la identidad visual de Airbnb `(#FF385C)` e incorpora navegación lateral interactiva:. 
 * **Módulo 1 - Resumen (Executive Overview)** KPIs macro, ranking de tarifas por distrito, mapa de calor personalizado (.topojson) y distribución del mercado por tipo de alojamiento.
-* ![Dashboard Resumen](captura_power_bi_01.png)
+![Dashboard Resumen](captura_power_bi_01.png)
 * **Módulo 2 - Anuncios (Inventory):** Análisis de la infraestructura física y distribución de la oferta según la capacidad de huéspedes.
-* ![Dashboard Resumen](captura_power_bi_02.png)
+![Dashboard Resumen](captura_power_bi_02.png)
 * **Módulo 3 - Precios (Financial Pricing):** Análisis de dispersión (Calidad vs. Tarifa), precios extremos (Piso/Techo) y comparativa de ADR (Average Daily Rate).
-* ![Dashboard Resumen](captura_power_bi_03.png)
+![Dashboard Resumen](captura_power_bi_03.png)
 * **Módulo 4 - Disponibilidad y Demanda:** Evaluación de la rotación y tracción de reservas por distrito utilizando el volumen de reseñas como proxy de ocupación.
-* ![Dashboard Resumen](captura_power_bi_04.png)
+![Dashboard Resumen](captura_power_bi_04.png)
 * **Módulo 5 - Ubicaciones (Geospatial Deep-Dive):** Geolocalización exacta por latitud/longitud y desglose microeconómico a nivel de Barrio.
-* ![Dashboard Resumen](captura_power_bi_05.png)
+![Dashboard Resumen](captura_power_bi_05.png)
 * **Módulo 6 - Anfitriones (Host Performance):** Identificación de operadores líderes, concentración de portafolios y segmentación de calidad mediante DAX (SWITCH).
-* ![Dashboard Resumen](captura_power_bi_06.png)
+![Dashboard Resumen](captura_power_bi_06.png)
 * **Módulo 7 - Detalles (Operative Raw Data):** Matriz de auditoría con buscador dinámico de texto por anfitrión y anuncio.
-* ![Dashboard Resumen](captura_power_bi_07.png)
+![Dashboard Resumen](captura_power_bi_07.png)
 
 ## Fórmulas DAX Destacadas
 ```power bi
